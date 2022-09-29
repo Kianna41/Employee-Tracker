@@ -16,5 +16,7 @@
 
 
 Link to GitHub URL: https://kianna41.github.io/Employee-Tracker/
-Link yo GitHub:https://github.com/Kianna41/Employee-Tracker
+
+Link to GitHub:https://github.com/Kianna41/Employee-Tracker
+
 Link to Application video: https://drive.google.com/file/d/1HOdmwe7Pu1YQnQCAFeJRMYDDqT25LRBL/view
